@@ -2,7 +2,7 @@
 
 **Wordly** is an AI-powered mobile language learning app that helps users build vocabulary and speaking habits through interactive lessons and real-time AI voice tutoring.
 
-**워들리(Wordly)**는 사용자가 단어와 말하기 습관을 자연스럽게 쌓을 수 있도록 돕는 AI 기반 모바일 언어 학습 앱입니다.  
+워들리(Wordly)는 사용자가 단어와 말하기 습관을 자연스럽게 쌓을 수 있도록 돕는 AI 기반 모바일 언어 학습 앱입니다.  
 게임형 학습 흐름과 실시간 AI 음성 튜터 기능을 통해, 사용자가 부담 없이 매일 언어를 연습할 수 있도록 설계했습니다.
 
 ---
